@@ -1,0 +1,11 @@
+parent,child,value
+root,A,
+root,B,
+A,A1,
+A,A2,
+B,B1,
+B,B2,
+A1,,3
+A2,,5
+B1,,2
+B2,,9

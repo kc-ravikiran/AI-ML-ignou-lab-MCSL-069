@@ -1,0 +1,4 @@
+kind,premise,conclusion
+rule,P(a),Q(a)
+fact,P(a),
+query,,Q(a)

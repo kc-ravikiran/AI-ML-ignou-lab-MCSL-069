@@ -1,0 +1,7 @@
+source,target,cost
+S,A,1
+S,B,4
+A,C,2
+A,G,7
+B,G,2
+C,G,2

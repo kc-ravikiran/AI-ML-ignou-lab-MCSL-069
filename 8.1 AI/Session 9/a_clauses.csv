@@ -1,0 +1,5 @@
+clause
+~P(x)|Q(x)
+~Q(y)|R(y)
+P(a)
+~R(b)
